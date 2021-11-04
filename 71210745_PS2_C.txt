@@ -1,0 +1,16 @@
+Di sebuah rumah, terdapat 4 ember kosong untuk menampung air hujan yang mengalir 
+dari loteng rumah. Berdasarkan ilustrasi gambar di bawah, tentukan ember mana yang 
+terisi lebih dahulu dan berikan penjelasannya !
+Keterangan:
+	Tampungan 1: tampungan kanan paling atas
+	Tampungan 2: tampungan kiri atas
+	Tampungan 3: tampungan kanan tengah
+	Tampungan 4: tampungan kiri bawah
+	Tampungan 5: tampungan kanan paling bawah
+
+Ember B yang terlebih dahulu terisi.
+	Air mengalir dari tampungan 1 ke tampungan 2 karena jalan pipa lebih rendah.
+	Air mengisi penuh tampungan 2, kemudian mengisi tampungan 1 hingga ketinggian jalan pipa ke tampungan 3.
+	Air mengalir dan mengisi penuh tampungan 5, kemudian mengisi tampungan 3 hingga ketinggian jalan pipa ke tampungan 4.
+	Lalu air mengalir ke tampungan 4 dan berakhir ke ember B.
+Ember lain tidak akan terisi karena jalan yang tertutup.
